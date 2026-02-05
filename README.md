@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm thailq</h1>
-<h3 align="center">#datascientist</h3>
+<h3 align="center">#dataanalyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
